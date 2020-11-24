@@ -11,13 +11,13 @@ How to use Solara Maintenance File
 
 3. Click on Customize Installation and click "Next".
 
-4. Change "Customize install location" to "C:\Python3\", and wait till the installation to finish.
+4. Change the PATH under "Customize install location" to "C:\Python3\" (without "..." ), and wait till the installation to finish.
 
-5. If you see Disable Max Length Path, click on it.
+5. Click on "Disable Max Length Path", if appeare in some cases.
 
-6. Right click on "Allow Python.bat" file and Run As Administrator to allow pythong in Firewall rule.
+6. Right click on "Allow Python.bat" file and Run As Administrator to allow Python in Firewall rule.
 
-7. Right click on "Requirements.bat" file and Run As Administrator to install required modules.
+7. Right click on "Requirements.bat" file and Run As Administrator to install required modules for the Maintenance script.
 
 8. Copy "chromedriver.exe" to Google Chrome file location > "C:\Program Files (x86)\Google\Chrome\Application\".
 
