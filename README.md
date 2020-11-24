@@ -3,7 +3,7 @@ Solara Maintenance Checklist Google Form
 
 README
 
-How to use Solara Maintenance File
+How to use Solara Maintenance Checklist Script
 
 1. Download Python installer from https://www.python.org/downloads/
 
